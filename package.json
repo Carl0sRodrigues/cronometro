@@ -10,6 +10,7 @@
   },
   "dependencies": {
     "expo": "~43.0.2",
+    "expo-cli": "^4.13.0",
     "expo-splash-screen": "~0.13.5",
     "expo-status-bar": "~1.1.0",
     "expo-updates": "~0.10.13",
